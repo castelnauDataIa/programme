@@ -1,3 +1,8 @@
+
+
+## Les vacances sont prévues du 24 décembre au 2 janvier
+
+
 ## programme
 Vous trouverez dans ce repo le programme de la formation ainsi que le sujet du premier projet : Detection d'adultere
 
