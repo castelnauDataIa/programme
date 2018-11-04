@@ -1,0 +1,37 @@
+/* Vos customisations des classes de Bootstrap */
+.jumbotron{
+	text-align: center;
+	background-image: url("../images/hero-image.jpg");
+	color: white;
+	
+}
+.titreJumbotron{
+font-family: Arvo;
+}
+.jumbotron p{
+	font-weight: 100;
+}
+.academy{
+	text-align: center;
+
+}
+.style{
+	color:rgb(231, 76, 60);
+	font-family:Arvo;
+}
+
+
+
+/* Responsive Styling */
+
+@media (max-width: 1199px p) {
+
+}
+
+@media (max-width: 991px) {
+
+}
+
+@media (max-width: 767px) {
+
+}
